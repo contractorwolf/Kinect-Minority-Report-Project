@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\MainWindow.baml
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\MainWindow.g.cs
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\App.g.cs
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\SkeletalViewer_MarkupCompile.cache
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\SkeletalViewer.g.resources
+C:\Users\james\Desktop\Kinect\modified\skeleton\bin\Release\SkeletalViewer.exe.config
+C:\Users\james\Desktop\Kinect\modified\skeleton\bin\Release\SkeletalViewer.exe
+C:\Users\james\Desktop\Kinect\modified\skeleton\bin\Release\SkeletalViewer.pdb
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\SkeletalViewer.exe
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Release\SkeletalViewer.pdb

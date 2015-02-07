@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\Kinect\modified\skeleton\bin\Debug\SkeletalViewer.exe.config
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\james\Desktop\Kinect\modified\skeleton\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\bin\Debug\SkeletalViewer.exe.config
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\bin\Debug\SkeletalViewer.exe
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\bin\Debug\SkeletalViewer.pdb
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\MainWindow.baml
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\MainWindow.g.cs
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\App.g.cs
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\james\Desktop\Kinect\modified\Kinect Minority Report Project\obj\x86\Debug\SkeletalViewer.g.resources
